@@ -1,4 +1,4 @@
-
+// 6 โมงครึ่งต้นคูณ บอกพี่ชาติด้วย
 public class SimpleInheritance {
 	public static void main(String [] args){
 		MemCustomer cus = new MemCustomer();
