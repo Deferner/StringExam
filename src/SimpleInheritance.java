@@ -5,7 +5,7 @@ public class SimpleInheritance {
 		System.out.println("Customer ID : " +cus.getCusId());
 		System.out.println("Customer name : " +cus.getCusName());
 		System.out.println("Sum production price : " +cus.getTotalPrice());
-		System.out.println("Discount : " +cus.get.Discount());
+		System.out.println("Discount : " +cus.getDiscount());
 		cus.calNetPrice();
 	}
 }
