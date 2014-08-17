@@ -1,4 +1,4 @@
-
+// 6 ครึ่งต้นคูณ
 public class SimpleInheritance {
 	public static void main(String [] args){
 		MemCustomer cus = new MemCustomer();
